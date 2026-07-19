@@ -1,0 +1,9 @@
+{
+  "name": "Albalat",
+  "short_name": "Albalat",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#a5652f",
+  "icons": []
+}
